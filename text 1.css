@@ -1,0 +1,30 @@
+p {
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.r-text {
+    color: white;
+}
+
+.s-text {
+    color: cornsilk;
+}
+
+.a-text {
+    color: gray;
+}
+
+.ts-text {
+    color: antiquewhite;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.p-text {
+    font-size: larger;
+}

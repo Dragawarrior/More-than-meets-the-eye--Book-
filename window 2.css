@@ -1,0 +1,80 @@
+.size {
+    width: 35rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.size-2 {
+    width: 35rem;
+    margin: auto;
+}
+
+.place {
+    display: flex;
+    justify-content: center;
+}
+
+.glass-smoked-1 {
+    /* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.glass-smoked-2 {
+    /* From https://css.glass */
+background: rgba(40, 88, 44, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(40, 88, 44, 0.3);
+}
+
+.glass-smoked-3 {
+    /* From https://css.glass */
+background: rgba(81, 40, 88, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(81, 40, 88, 0.3);
+}
+
+.glass-smoked-4 {
+    /* From https://css.glass */
+background: rgba(208, 207, 114, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(208, 207, 114, 0.3);
+}
+
+.glass-smoked-5 {
+    /* From https://css.glass */
+background: rgba(42, 130, 136, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(42, 130, 136, 0.3);
+}
+
+.glass-smoked-6 {
+    /* From https://css.glass */
+background: rgba(176, 102, 210, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(176, 102, 210, 0.3);
+}
+
+.glass-smoked-7 {
+    /* From https://css.glass */
+background: rgba(218, 50, 18, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(218, 50, 18, 0.3);
+}

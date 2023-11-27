@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.parallax-container {
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.buffer {
+    height: 20vh;
+    background-color: black;
+}
+
+.small {
+    text-align: center;
+    display: inline-flex;
+    max-width: 30rem;
+    align-items: center;
+}

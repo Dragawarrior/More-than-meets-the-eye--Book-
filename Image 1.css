@@ -1,0 +1,38 @@
+.image-1 {
+    background-image: url(./assets/Reika\ wolf.jpg);
+    background-position: center;
+}
+
+.image-2 {
+    background-image: url(/assets/Luna\ moon.jpg);
+    background-position: center;
+}
+
+.image-3 {
+    background-image: url(/assets/Cover.jpg);
+    background-position: center;
+}
+
+.image-4 {
+    background-image: url(/assets/The\ war.jpg);
+    background-position: center;
+}
+
+.image-5 {
+    background-image: url(/assets/placeholder\ Altair.jpg);
+}
+
+.image-6 {
+    background-image: url(/assets/placeholder\ Sunny.jpg);
+    background-position: center;
+}
+
+.image-7 {
+    background-image: url(/assets/placeholder\ Dawn.jpg);
+    background-position: center;
+}
+
+.image-8 {
+    background-image: url(/assets/placeholder\ throne.jpg);
+    background-position: center;
+}
